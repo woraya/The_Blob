@@ -19,8 +19,8 @@ The Blob is a rapid game prototype project created from scratch using :: <br />
 ___
 
 For more information @<br />
-..*[TheBlob@Regina](https://http://www.reginacantu.com/theblob)<br />
-..*[TheBlob@Woraya](https://www.worayalab.com/all#/theblob/)
+*[TheBlob@Regina](https://http://www.reginacantu.com/theblob)<br />
+*[TheBlob@Woraya](https://www.worayalab.com/all#/theblob/)
 
 
 
