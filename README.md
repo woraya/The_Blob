@@ -3,6 +3,9 @@ The Blob is an ITP, NYU 2017 project designed and created by Regina Sofia Cantu 
 
 ![](images/game.gif)
 
+![](images/controller.jpg)<br />
+![](images/user_game.jpg)<br />
+
 ## Overview
 The Blob is a rapid game prototype project created from scratch using :: <br />
 <br />
@@ -14,8 +17,4 @@ The Blob is a rapid game prototype project created from scratch using :: <br />
 <br />
 <br />
 
-<p>
-![](images/controller.jpg)<br />
-![](images/user_game.jpg)<br />
-</p>
 
