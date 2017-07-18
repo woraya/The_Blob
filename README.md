@@ -13,7 +13,9 @@ The Blob is a rapid game prototype project created from scratch using :: <br />
 * Max/Msp/Jitter to manipulate a simple sine wave sound that response to the player’s squeezing the ball
 <br />
 <br />
+
+<p>
 ![](images/controller.jpg)<br />
 ![](images/user_game.jpg)<br />
-
+</p>
 
