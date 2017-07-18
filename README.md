@@ -1,4 +1,7 @@
 # The Blob
+The Blob is an ITP, NYU 2017 project designed and created by Regina Sofia Cantu & Woraya (Mint) Boonyapanachoti.
+
+![](images/game.gif)
 
 ## Overview
 The Blob is a rapid game prototype project created from scratch using :: <br />
@@ -10,5 +13,7 @@ The Blob is a rapid game prototype project created from scratch using :: <br />
 * Max/Msp/Jitter to manipulate a simple sine wave sound that response to the player’s squeezing the ball
 <br />
 <br />
-The Blob is an ITP, NYU 2017 project designed and created by Regina Sofia Cantu & Woraya (Mint) Boonyapanachoti.
+![](images/controller.jpg)
+![](images/user_game.jpg)
+
 
