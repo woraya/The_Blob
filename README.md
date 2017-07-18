@@ -1,5 +1,4 @@
 # The Blob
-___
 The Blob is an ITP, NYU 2017 project designed and created by Regina Sofia Cantu & Woraya (Mint) Boonyapanachoti.
 
 ![](images/game.gif)<br />
